@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<address>
+		<city>Mohali</city>
+		<country>India</country>
+		<state>Punjab</state>
+	</address>
+	<id>20152</id>
+	<name>Prashant</name>
+	<phone>9999988888</phone>
+</student>
